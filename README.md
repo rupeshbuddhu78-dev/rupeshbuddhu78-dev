@@ -63,15 +63,21 @@ I love transforming creative ideas into modern, responsive and interactive web a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rupeshbuddhu78-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshbuddhu78-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<!-- This streak card is kept because it is currently rendering correctly. -->
+<img src="https://streak-stats.demolab.com?user=rupeshbuddhu78-dev&theme=tokyonight&hide_border=true&border_radius=15" width="75%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rupeshbuddhu78-dev&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/rupeshbuddhu78-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Public_Repositories-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
+</a>
+<a href="https://github.com/rupeshbuddhu78-dev">
+  <img src="https://img.shields.io/badge/View-GitHub_Contributions-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions" />
+</a>
 
 </div>
+
+> Note: GitHub Stats cards are served by third-party services. Their shared public endpoints can be rate-limited or temporarily unavailable, so this profile links directly to GitHub for reliable stats.
 
 ---
 
@@ -79,9 +85,11 @@ I love transforming creative ideas into modern, responsive and interactive web a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshbuddhu78-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+[![GitHub Contributions](https://img.shields.io/badge/OPEN-GitHub_Contribution_Graph-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupeshbuddhu78-dev)
 
 </div>
+
+The contribution calendar on your GitHub profile is the most reliable live activity view.
 
 ---
 
@@ -90,11 +98,11 @@ I love transforming creative ideas into modern, responsive and interactive web a
 <div align="center">
 
 <a href="https://github.com/rupeshbuddhu78-dev/ZHI-COLLEGE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshbuddhu78-dev&repo=ZHI-COLLEGE&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🏫_ZHI--COLLEGE-Explore_Project-161B22?style=for-the-badge" alt="ZHI College project" />
 </a>
 
 <a href="https://github.com/rupeshbuddhu78-dev/Parents_control_website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rupeshbuddhu78-dev&repo=Parents_control_website&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/📱_Parents_Control-Explore_Project-161B22?style=for-the-badge" alt="Parents Control project" />
 </a>
 
 </div>
@@ -125,7 +133,7 @@ I love transforming creative ideas into modern, responsive and interactive web a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+[![View GitHub contribution calendar](https://img.shields.io/badge/VIEW-GitHub_Contribution_Calendar-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupeshbuddhu78-dev)
 
 </div>
 
